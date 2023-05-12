@@ -6,12 +6,12 @@ This was tested with an [WeMos D1 Mini](https://www.hobbyelectronica.nl/product/
 
 GPIO pin mapping available on link above.
 
-The mapping i used:
-Yellow on pin 2 (rpm)
-Not sure what i did for oil and temp alarm.
-
 WEMOS
-D5 bruin - D3 oliealarm
-D6 rood - D2 RPM
-D7 groen - D1 koelwater
-DNG zwart - GND D1
+- D5 bruin - D3 oliealarm
+- D6 rood - D2 RPM
+- D7 groen - D1 koelwater
+- DNG zwart - GND D1
+
+Not sure why i wrote up this mapping
+- Yellow on pin 2 (rpm)
+- Not sure what i did for oil and temp alarm.
